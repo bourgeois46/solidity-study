@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "hi",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"lecture/lec1.sol": "Hello"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"lecture/lec1.sol": {
+			"keccak256": "0xb93ed4a5a2b27702c685c783f091fd63fd54dae1348c6ed5ba4b758faa668bb9",
+			"license": "GPL-30",
+			"urls": [
+				"bzz-raw://b8b20cbf9a40ffbfea671a9a5c48d3aba945c83ea7c799a233dddc015e71b587",
+				"dweb:/ipfs/Qmc67ALCdzLguXy98A3Lzqn5HQqciQc7d9B6SMbq1Fq5Xc"
+			]
+		}
+	},
+	"version": 1
+}
